@@ -13,3 +13,4 @@ __pycache__
 /docs
 /bitpack.c
 /misc
+.venv

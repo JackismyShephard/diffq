@@ -1,0 +1,6 @@
+Cython
+numpy
+torch
+setuptools
+wheel
+twine
