@@ -3,4 +3,5 @@ numpy
 torch
 setuptools
 wheel
+auditwheel
 twine
